@@ -1,5 +1,6 @@
 # Image Tracking in AR in Unity
 
+
 ### Introduzione
 In questo demo uso come immagine per il tracciamento (trackable) la copertina di un mio vecchio libro di fisica.
 Il 3D digitale in AR è un modello di Ferrari 812 Superfast scaricabile gratuitamente qui: https://lnkd.in/dzKMcDNz
