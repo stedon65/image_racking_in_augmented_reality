@@ -11,5 +11,4 @@ La sezione è creata solo relativamente ad alcune mesh del modello complessivo, 
 
 ### Video
 
-[![](https://dl.dropboxusercontent.com/scl/fi/9tuy34ezlw1rn6iqstwii/ar_urp_crosssection.png?rlkey=a6zgcde7u3zvipjql1v0361v2&dl=1)](https://dl.dropboxusercontent.com/scl/fi/jx8vq754t10ce99agtty8/ar_urp_crosssection.mp4?rlkey=8aoicmbsd50h06f41m04w28kd&dl=0)
-
+[![](https://dl.dropboxusercontent.com/scl/fi/wjnu765b9pu7j33wt86oi/ar_urp_image_tracking.png?rlkey=mhj6vzrraeuw6481ktz09e8hj&dl=1)](https://dl.dropboxusercontent.com/scl/fi/pbofa9s6n9qee6yzbikk4/ar_urp_image_tracking.mp4?rlkey=cf8w9z86x23bulchlwgvm964d&dl=0)
